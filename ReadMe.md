@@ -25,7 +25,7 @@
 
 # 🔥 About Me  
 - 🎓 Passionate learner exploring **Java**, **SQL**, and **Web Development**  
-- 💡 Interested in **Cybersecurity**, **Backend Dev**, **AI projects**, and **Full-Stack applications**  
+- 💡 Interested in **JAVA**, **DATABASE**, **projects**, and **Full-Stack applications**  
 - 🛠 Currently building: **Smart Stay – AI-based hotel recommendation system**  
 - 🎯 Always working to improve skills and contribute to open-source  
 
@@ -33,14 +33,6 @@
 
 # 🌐 Connect With Me  
 <a href="https://github.com/KUMAR-VSK"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/kumar-v-s-1695861b2/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=KUMAR-VSK&icon=0&color=0)](https://visitcount.itsvg.in)
-
-**✨ Proudly crafted with GPRM**
-
-</div>
