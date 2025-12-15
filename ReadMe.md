@@ -33,6 +33,6 @@
 
 # 🌐 Connect With Me  
 <a href="https://github.com/KUMAR-VSK"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="[https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/kumar-v-s-1695861b2/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/kumar-v-s-1695861b2/](https://www.linkedin.com/in/kumar-v-s-1695861b2/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
