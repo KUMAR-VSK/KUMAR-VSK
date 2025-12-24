@@ -59,12 +59,10 @@
 - 🧠 **GitHub**: [KUMAR-VSK](https://github.com/KUMAR-VSK)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KUMAR-VSK&theme=chartreuse-dark&hide_border=false&include_all_commits=true" />
-  <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=KUMAR-VSK&theme=chartreuse-dark&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMAR-VSK&theme=chartreuse-dark&hide_border=false&layout=compact" />
 </p>
+
 
 ## 🧩 LeetCode Stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/KUMARVSK?theme=dark&font=Karma)](https://leetcode.com/u/KUMARVSK/)
