@@ -4,6 +4,8 @@
 <h3 align="center">Java Full Stack Developer | Backend & Database Enthusiast</h3>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KUMAR-VSK&label=Profile%20views&color=0e75b6&style=flat" alt="KUMAR-VSK" /> </p>
+
 
 ## 🚀 About Me
 - 🌱 Currently learning **Advanced Java, Spring Boot & SQL**
@@ -50,39 +52,21 @@
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/KUMAR-VSK/KUMAR-VSK/output/snake.svg" alt="Snake animation" /><br>
 
 ## 🌐 Coding Profiles
 - 💡 **LeetCode**: [KUMARVSK](https://leetcode.com/u/KUMARVSK/)
 - 🧠 **GitHub**: [KUMAR-VSK](https://github.com/KUMAR-VSK)
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KUMAR-VSK&theme=dark&hide_border=false&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KUMAR-VSK&theme=chartreuse-dark&hide_border=false&include_all_commits=true" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KUMAR-VSK&theme=dark&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=KUMAR-VSK&theme=chartreuse-dark&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMAR-VSK&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMAR-VSK&theme=chartreuse-dark&hide_border=false&layout=compact" />
 </p>
-
----
 
 ## 🧩 LeetCode Stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/KUMARVSK?theme=dark&font=Karma)](https://leetcode.com/u/KUMARVSK/)
-
----
-
-## 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/KUMAR-VSK/KUMAR-VSK/output/snake.svg" alt="Snake animation" />
-
----
-
-## 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=KUMAR-VSK&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 
 ⭐ **If you like my work, consider starring my repositories!**
